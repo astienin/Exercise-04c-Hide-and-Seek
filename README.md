@@ -2,6 +2,7 @@
 # Exercise-04c-Hide-and-Seek
 
 The second exercise for the 2D Platformer project, exploring two enemy types.
+I am using this as a placeholder for my project 4 I am a bit behind
 
 ## Implementation
 
